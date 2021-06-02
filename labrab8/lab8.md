@@ -9,7 +9,7 @@
 <br/>
 
 студента 1 курса группы ИВТ-б-о-191-1 <br/>
-Джабраилова Федора Федоровича<br/>
+Симкина Николая Алексеевича<br/>
 направления подготовки 09.03.01 "Информатика и вычислительная техника"  
 <br/>
 
@@ -35,15 +35,18 @@
 
 
 1. Скриншот окна настроек Qt Creator после настройки для сборки android приложений:
-<p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab8/img/1.png?raw=true" alt=""></p>
+<p align="center"><img 
+src="https://github.com/n-vsc/Creatory/blob/master/labrab8/img/1.png?raw=true" alt=""></p>
 <p align="center"><i>Рис. 1. - Окно настроек Qt Creator после настройки для сборки android приложений</i></p>
 
 2. Проект - **Analog Clock**
-<p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab8/img/2.png?raw=true" alt=""></p>
+<p align="center"><img 
+src="https://github.com/n-vsc/Creatory/blob/master/labrab8/img/2.png?raw=true" alt=""></p>
 <p align="center"><i>Рис. 2. - Analog Clock</i></p>
 
 3. Скриншот экрана с запущенным приложением на устройстве:
-<p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab8/img/3.jpg?raw=true" alt=""></p>
+<p align="center"><img 
+src="https://github.com/n-vsc/Creatory/blob/master/labrab8/img/3.jpg?raw=true" alt=""></p>
 <p align="center"><i>Рис. 3. - Скриншот с мобильного телефона</i></p>
 
 # Вывод

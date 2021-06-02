@@ -9,7 +9,7 @@
 <br/>
 
 студента 1 курса группы ИВТ-б-о-191-1 <br/>
-Джабраилова Федора Федоровича<br/>
+Симкина Николая Алексеевича<br/>
 направления подготовки 09.03.01 "Информатика и вычислительная техника"  
 <br/>
 
@@ -37,12 +37,14 @@
 
 **Скриншот проведенного тестирования(консоль):**
 
-<p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab9/img/1.png?raw=true" alt=""></p>
+<p align="center"><img 
+src="https://github.com/n-vsc/Creatory/blob/master/labrab9/img/1.png?raw=true" alt=""></p>
 <p align="center"><i>Рис. 1. - Скриншот консоли</i></p>
 
 **Скриншот проведенного тестирования(Qt):**
 
-<p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab9/img/2.png?raw=true" alt=""></p>
+<p align="center"><img 
+src="https://github.com/n-vsc/Creatory/blob/master/labrab9/img/2.png?raw=true" alt=""></p>
 <p align="center"><i>Рис. 2. - Скриншот Qt</i></p>
 
 **Код тестирования(tst_ файл)**
@@ -302,6 +304,7 @@ TEST(Calculator, resetPassword_2)
 ```
 
 **Метод с ошибкой:**
+
 ``` c++
 DoorStatus LockController::lockDoor()
 {
@@ -321,7 +324,8 @@ DoorStatus LockController::lockDoor()
 
 Результат теста после исправления:
 
-<p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab9/img/3.png?raw=true" alt=""></p>
+<p align="center"><img 
+src="https://github.com/n-vsc/Creatory/blob/master/labrab9/img/3.png?raw=true" alt=""></p>
 <p align="center"><i>Рис. 3. - Тест после исправления</i></p>
 
 # Вывод

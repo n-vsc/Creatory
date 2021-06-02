@@ -9,7 +9,7 @@
 <br/>
 
 студента 1 курса группы ИВТ-б-о-191-1 <br/>
-Джабраилова Федора Федоровича<br/>
+Симкина Николая Алексеевича<br/>
 направления подготовки 09.03.01 "Информатика и вычислительная техника"  
 <br/>
 
@@ -26,7 +26,6 @@
 
 
 
-
 **Цель:** изучить основные возможности создания и отладки программ в IDE Qt Creator.
 
 ***Вопросы:***
@@ -35,25 +34,29 @@
 
    - Необходимо нажать **Файл - Создать файл или проект** (Ctrl+N)
    
-   <p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab7/img/1.png?raw=true" alt=""></p>
-   
+   <p align="center"><img 
+   src="https://github.com/n-vsc/Creatory/blob/master/labrab7/img/1.png?raw=true" 
+   alt=""></p>
    <p align="center"><i>Рис. 1. - Создание проекта в Qt Creator</i></p>
    
    - В появившемся окне выбрать **Проект без Qt** и **Приложение на языке C++**
-    <p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab7/img/2.png?raw=true" alt=""></p>
-   
+    <p align="center"><img 
+   src="https://github.com/n-vsc/Creatory/blob/master/labrab7/img/2.png?raw=true" 
+   alt=""></p>
    <p align="center"><i>Рис. 2. - Создание проекта без использования компонентов Qt</i></p>
    
 2. Как изменить цветовую схему (оформление) среды?
 
    - Нажать **Инструменты - Параметры**
-   <p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab7/img/3.png?raw=true" alt=""></p>
-   
+   <p align="center"><img 
+   src="https://github.com/n-vsc/Creatory/blob/master/labrab7/img/3.png?raw=true" 
+   alt=""></p>
    <p align="center"><i>Рис. 3. - Параметры Qt</i></p>
    
    - В параметрах Qt необходимо выбрать вкладку **Среда**, а в ней изменить цветовую схему
-   <p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab7/img/4.png?raw=true" alt=""></p>
-   
+   <p align="center"><img 
+   src="https://github.com/n-vsc/Creatory/blob/master/labrab7/img/4.png?raw=true" 
+   alt=""></p>
    <p align="center"><i>Рис. 4. - Изменение цветовой схемы Qt</i></p>
    
 3. Как закомментировать/раскомментировать блок кода средствами Qt Creator?
@@ -61,8 +64,9 @@
    
 4. Как открыть в проводнике Windows папку с проектом средствами Qt Creator?
    Нажать по файлу проекта правой кнопкой мыши и выбрать **Показать в проводнике**
-   <p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab7/img/5.png?raw=true" alt=""></p>
-   
+   <p align="center"><img 
+   src="https://github.com/n-vsc/Creatory/blob/master/labrab7/img/5.png?raw=true" 
+   alt=""></p>
    <p align="center"><i>Рис. 5. - Открытие папки с проекток средствами Qt Creator</i></p>
    
 5. Какое расширение файла-проекта используется Qt Creator?
@@ -79,10 +83,11 @@
   
 8. Как установить/убрать точку останова (breakpoint)?
    Нажать левой кнопкой мыши перед номером строки. Чтобы убрать нажать еще раз
-   <p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab7/img/6.png?raw=true" alt=""></p>
+   <p align="center"><img 
+   src="https://github.com/n-vsc/Creatory/blob/master/labrab7/img/6.png?raw=true" 
+   alt=""></p>
+<p align="center"><i>Рис. 6. - Установка breakpoint</i></p>
    
-   <p align="center"><i>Рис. 6. - Установка breakpoint</i></p>
-
 9. Создайте программу со следующим кодом:
    ``` c++
    #include <iostream>
@@ -106,14 +111,17 @@
    - Какие значение содержатся в переменных i и  d в 7й строке?
    - Совпадают ли эти значения с теми, что вы получали в MSVS для соответствующих типов?
 
-   <p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab7/img/7.png?raw=true" alt=""></p>
-   
+   <p align="center"><img 
+   src="https://github.com/n-vsc/Creatory/blob/master/labrab7/img/7.png?raw=true" 
+   alt=""></p>
    <p align="center"><i>Рис. 7. - Значение переменных в 5 строке</i></p>
-   
-   <p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab7/img/8.png?raw=true" alt=""></p>
+   <p align="center"><img 
+   src="https://github.com/n-vsc/Creatory/blob/master/labrab7/img/8.png?raw=true" 
+   alt=""></p>
    <p align="center"><i>Рис. 8. - Значение переменных в 6 строке</i></p>
-   <p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab7/img/9.png?raw=true" alt=""></p>
-   
+   <p align="center"><img 
+   src="https://github.com/n-vsc/Creatory/blob/master/labrab7/img/9.png?raw=true" 
+   alt=""></p>
    <p align="center"><i>Рис. 9. - Значение переменных в 7 строке</i></p>
    
 10. Закройте проект и перейдите на вкладку «Начало» => «Примеры»;
@@ -122,18 +130,20 @@
 13. Сейчас вы находитесь на вкладке «Проекты». Выберите комплект сборки. 
 14. Перейдите на вкладку «Редактор» и запустите сборку проекта;
 15. В инспекторе проекта выберите файл «main.cpp». В этом файле установите курсор на слово «show» в строке calculator.show(); и нажмите F1. Изучите справочную информацию. Таким же образом можно получить справку по любому объекту/методу/полю доступному в Qt;
-   <p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab7/img/10.png?raw=true" alt=""></p>
-
+   <p align="center"><img 
+src="https://github.com/n-vsc/Creatory/blob/master/labrab7/img/10.png?raw=true" 
+alt=""></p>
    <p align="center"><i>Рис. 10. - Справка по методу show()</i></p>
+
 16. В инспекторе проекта выберите файл «Формы» => «calculatorform.ui» и дважды счёлкните ЛКМ;
-   <p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab7/img/11.png?raw=true" alt=""></p>
-
+   <p align="center"><img src="https://github.com/n-vsc/Creatory/blob/master/labrab7/img/11.png?raw=true" alt=""></p>
    <p align="center"><i>Рис. 11. - Редактор форм</i></p>
+
 17. Вы попали на вкладку «Дизайн». На форме замените английский текст на русский. Пересоберите проект.
-   <p align="center"><img src="https://github.com/fedyad99/pr/blob/master/lab7/img/12.png?raw=true" alt=""></p>
-
+   <p align="center"><img 
+src="https://github.com/n-vsc/Creatory/blob/master/labrab7/img/12.png?raw=true" 
+alt=""></p>
    <p align="center"><i>Рис. 12. - Замена на русский язык</i></p>
-
 
 # Вывод
 В данной лабораторной работе познакомились я интерфейсом и основными функциями Qt Creator
